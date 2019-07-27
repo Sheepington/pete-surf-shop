@@ -1,0 +1,27 @@
+.navbar-nav {
+    margin: auto;
+}
+
+.nav-link {
+    color: black;
+    font-size: 24px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.jumbotron {
+    padding-top: 80px;
+    padding-left: 40px;
+    background-image: url("images/Group 2.jpg");
+    width: 100%;
+}
+
+.products {
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
